@@ -1,0 +1,3 @@
+D:/Jetbrains/CLion/clion2020/code/learn/C++/Demo/cmake-build-debug/CMakeFiles/try.dir
+D:/Jetbrains/CLion/clion2020/code/learn/C++/Demo/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Jetbrains/CLion/clion2020/code/learn/C++/Demo/cmake-build-debug/CMakeFiles/rebuild_cache.dir

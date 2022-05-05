@@ -1,0 +1,13 @@
+/*...*/不可嵌套使用
+#if 0 ... #endif 属于条件编译，0为参数；用作注释可嵌套
+具体（待使用，执行测试代码，发布后用#if 0 屏蔽）：
+#if 0    //改为#if 1 ,执行code
+    code
+#endif
+
+//condition条件为true执行code1，否则执行code2
+#if condition
+    code1
+#else
+    code2
+#endif
