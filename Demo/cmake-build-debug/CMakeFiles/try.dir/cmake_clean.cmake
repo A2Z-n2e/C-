@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/try.dir/com/my/project/HelloWorld.cpp.obj"
+  "CMakeFiles/try.dir/com/my/project/ViriableType.cpp.obj"
   "libtry.dll.a"
   "try.exe"
   "try.exe.manifest"

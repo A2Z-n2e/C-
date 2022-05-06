@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "D:/Jetbrains/CLion/clion2020/code/learn/C++/Demo/com/my/project/HelloWorld.cpp" "D:/Jetbrains/CLion/clion2020/code/learn/C++/Demo/cmake-build-debug/CMakeFiles/try.dir/com/my/project/HelloWorld.cpp.obj"
+  "D:/Jetbrains/CLion/clion2020/code/learn/C++/Demo/com/my/project/ViriableType.cpp" "D:/Jetbrains/CLion/clion2020/code/learn/C++/Demo/cmake-build-debug/CMakeFiles/try.dir/com/my/project/ViriableType.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

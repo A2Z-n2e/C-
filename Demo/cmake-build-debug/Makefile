@@ -122,32 +122,32 @@ try/fast:
 	$(MAKE) -f CMakeFiles\try.dir\build.make CMakeFiles/try.dir/build
 .PHONY : try/fast
 
-com/my/project/HelloWorld.obj: com/my/project/HelloWorld.cpp.obj
+com/my/project/ViriableType.obj: com/my/project/ViriableType.cpp.obj
 
-.PHONY : com/my/project/HelloWorld.obj
+.PHONY : com/my/project/ViriableType.obj
 
 # target to build an object file
-com/my/project/HelloWorld.cpp.obj:
-	$(MAKE) -f CMakeFiles\try.dir\build.make CMakeFiles/try.dir/com/my/project/HelloWorld.cpp.obj
-.PHONY : com/my/project/HelloWorld.cpp.obj
+com/my/project/ViriableType.cpp.obj:
+	$(MAKE) -f CMakeFiles\try.dir\build.make CMakeFiles/try.dir/com/my/project/ViriableType.cpp.obj
+.PHONY : com/my/project/ViriableType.cpp.obj
 
-com/my/project/HelloWorld.i: com/my/project/HelloWorld.cpp.i
+com/my/project/ViriableType.i: com/my/project/ViriableType.cpp.i
 
-.PHONY : com/my/project/HelloWorld.i
+.PHONY : com/my/project/ViriableType.i
 
 # target to preprocess a source file
-com/my/project/HelloWorld.cpp.i:
-	$(MAKE) -f CMakeFiles\try.dir\build.make CMakeFiles/try.dir/com/my/project/HelloWorld.cpp.i
-.PHONY : com/my/project/HelloWorld.cpp.i
+com/my/project/ViriableType.cpp.i:
+	$(MAKE) -f CMakeFiles\try.dir\build.make CMakeFiles/try.dir/com/my/project/ViriableType.cpp.i
+.PHONY : com/my/project/ViriableType.cpp.i
 
-com/my/project/HelloWorld.s: com/my/project/HelloWorld.cpp.s
+com/my/project/ViriableType.s: com/my/project/ViriableType.cpp.s
 
-.PHONY : com/my/project/HelloWorld.s
+.PHONY : com/my/project/ViriableType.s
 
 # target to generate assembly for a file
-com/my/project/HelloWorld.cpp.s:
-	$(MAKE) -f CMakeFiles\try.dir\build.make CMakeFiles/try.dir/com/my/project/HelloWorld.cpp.s
-.PHONY : com/my/project/HelloWorld.cpp.s
+com/my/project/ViriableType.cpp.s:
+	$(MAKE) -f CMakeFiles\try.dir\build.make CMakeFiles/try.dir/com/my/project/ViriableType.cpp.s
+.PHONY : com/my/project/ViriableType.cpp.s
 
 # Help Target
 help:
@@ -158,9 +158,9 @@ help:
 	@echo ... try
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... com/my/project/HelloWorld.obj
-	@echo ... com/my/project/HelloWorld.i
-	@echo ... com/my/project/HelloWorld.s
+	@echo ... com/my/project/ViriableType.obj
+	@echo ... com/my/project/ViriableType.i
+	@echo ... com/my/project/ViriableType.s
 .PHONY : help
 
 

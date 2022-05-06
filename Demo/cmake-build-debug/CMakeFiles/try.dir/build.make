@@ -56,27 +56,27 @@ include CMakeFiles/try.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/try.dir/flags.make
 
-CMakeFiles/try.dir/com/my/project/HelloWorld.cpp.obj: CMakeFiles/try.dir/flags.make
-CMakeFiles/try.dir/com/my/project/HelloWorld.cpp.obj: ../com/my/project/HelloWorld.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Jetbrains\CLion\clion2020\code\learn\C++\Demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/try.dir/com/my/project/HelloWorld.cpp.obj"
-	D:\mingw64\bin\c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\try.dir\com\my\project\HelloWorld.cpp.obj -c D:\Jetbrains\CLion\clion2020\code\learn\C++\Demo\com\my\project\HelloWorld.cpp
+CMakeFiles/try.dir/com/my/project/ViriableType.cpp.obj: CMakeFiles/try.dir/flags.make
+CMakeFiles/try.dir/com/my/project/ViriableType.cpp.obj: ../com/my/project/ViriableType.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Jetbrains\CLion\clion2020\code\learn\C++\Demo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/try.dir/com/my/project/ViriableType.cpp.obj"
+	D:\mingw64\bin\c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\try.dir\com\my\project\ViriableType.cpp.obj -c D:\Jetbrains\CLion\clion2020\code\learn\C++\Demo\com\my\project\ViriableType.cpp
 
-CMakeFiles/try.dir/com/my/project/HelloWorld.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/try.dir/com/my/project/HelloWorld.cpp.i"
-	D:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Jetbrains\CLion\clion2020\code\learn\C++\Demo\com\my\project\HelloWorld.cpp > CMakeFiles\try.dir\com\my\project\HelloWorld.cpp.i
+CMakeFiles/try.dir/com/my/project/ViriableType.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/try.dir/com/my/project/ViriableType.cpp.i"
+	D:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Jetbrains\CLion\clion2020\code\learn\C++\Demo\com\my\project\ViriableType.cpp > CMakeFiles\try.dir\com\my\project\ViriableType.cpp.i
 
-CMakeFiles/try.dir/com/my/project/HelloWorld.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/try.dir/com/my/project/HelloWorld.cpp.s"
-	D:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Jetbrains\CLion\clion2020\code\learn\C++\Demo\com\my\project\HelloWorld.cpp -o CMakeFiles\try.dir\com\my\project\HelloWorld.cpp.s
+CMakeFiles/try.dir/com/my/project/ViriableType.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/try.dir/com/my/project/ViriableType.cpp.s"
+	D:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Jetbrains\CLion\clion2020\code\learn\C++\Demo\com\my\project\ViriableType.cpp -o CMakeFiles\try.dir\com\my\project\ViriableType.cpp.s
 
 # Object files for target try
 try_OBJECTS = \
-"CMakeFiles/try.dir/com/my/project/HelloWorld.cpp.obj"
+"CMakeFiles/try.dir/com/my/project/ViriableType.cpp.obj"
 
 # External object files for target try
 try_EXTERNAL_OBJECTS =
 
-try.exe: CMakeFiles/try.dir/com/my/project/HelloWorld.cpp.obj
+try.exe: CMakeFiles/try.dir/com/my/project/ViriableType.cpp.obj
 try.exe: CMakeFiles/try.dir/build.make
 try.exe: CMakeFiles/try.dir/linklibs.rsp
 try.exe: CMakeFiles/try.dir/objects1.rsp

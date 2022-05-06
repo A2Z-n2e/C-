@@ -80,7 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="D:/Jetbrains/CLion/clion2020/code/learn/C++/Demo/com/my/project/HelloWorld.cpp">
+		<Unit filename="D:/Jetbrains/CLion/clion2020/code/learn/C++/Demo/com/my/project/ViriableType.cpp">
 			<Option target="try"/>
 		</Unit>
 		<Unit filename="D:/Jetbrains/CLion/clion2020/code/learn/C++/Demo/CMakeLists.txt">
